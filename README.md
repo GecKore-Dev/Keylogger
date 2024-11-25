@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo-GecKore.png" alt="Logo" width="200">
+  <img src="Keylogger-banner.svg" alt="Banner" width="1000">
 </p>
 
 Ce programme est un outil éducatif et éthique permettant d'enregistrer les frappes clavier de manière sécurisée et transparente. Il propose une interface conviviale pour activer ou désactiver facilement l'enregistrement, tout en affichant des informations sur son créateur.
