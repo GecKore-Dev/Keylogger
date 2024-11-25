@@ -13,3 +13,7 @@ Ce programme est un outil éducatif et éthique permettant d'enregistrer les fra
 ⚠️ **Légalité et éthique** : Ce programme est conçu uniquement à des fins éducatives ou pour des usages légaux, comme surveiller votre propre appareil (contrôle parental ou entreprise). **Il ne doit pas être utilisé pour surveiller des tiers sans leur consentement**, car cela violerait leur vie privée et la loi.
 
 En suivant ces principes, ce logiciel offre une approche légitime pour découvrir les bases de la programmation liée aux événements clavier. 😊
+
+<p align="center">
+  <img src="Preview_Keylogger.png" alt="img" width="500">
+</p>
